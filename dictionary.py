@@ -3,7 +3,7 @@ ice_cream = {"Alice": "Chocolate", "Bob": "Strawberry", "Cara": "Mint Choc Chip"
 
 # Display it
 print(ice_cream)
-# add an item by assinging a new value to a new key
+# add an item by assigning a new value to a new key
 ice_cream["Eve"] = "Rum Raisin"
 # Display with the new item
 print(ice_cream)
